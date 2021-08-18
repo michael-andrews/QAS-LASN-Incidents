@@ -1,7 +1,6 @@
 # Queensland Ambulance Service Incidents by Local Ambulance Service Network
 
-Aggregate data of Queensland Ambulance Service Incidents by Local Ambulance Service Network.
-
+Aggregate data of Queensland Ambulance Service Incidents by Local Ambulance Service Network commensing **August 2014** and ending **June 2021**.
 
 
 ## Installation
@@ -11,6 +10,20 @@ Individual data sets from [Queensland Government Open Data Portal](https://www.d
 ```bash
 https://www.data.qld.gov.au/dataset/queensland-ambulance-service-incidents-by-local-ambulance-service-network
 ```
+
+## Data Notes
+
+**Source:** QACIR Incidents Cube
+ 
+### Emergency and Urgent Incidents
+
+Emergency and urgent ambulance incidents attended by QAS are divided into 2 categories:
+* Emergency (Code 1) incidents are potentially life threatening events that necessitate the use of ambulance warning devices (lights and sirens).
+* Urgent (Code 2) incidents may require an undelayed response but do not necessitate the use of ambulance warning devices (lights and sirens).
+
+### Non-Emergency Medically Authorised Incidents
+* Non-emergency incidents (Code 3 and Code 4) are attended by an ambulance or patient transport service unit without the use of ambulance warning devices (lights and sirens).
+* A non-emergency patient is seen by a medical practitioner and deemed by the medical practitioner as non-emergency but requiring ambulance transport.																					
 
 ## Local Ambulance Service Network (LASN)
 
