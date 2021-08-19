@@ -29,23 +29,23 @@ Emergency and urgent ambulance incidents attended by QAS are divided into 2 cate
 
 
 
-| LASN Name             	| Population 	| Area (km²) 	|
-|-----------------------	|------------	|------------	|
-| Cairns and Hinterland 	| 221,000    	| 142,900    	|
-| Cape York             	| 27,000     	| 268,000    	|
-| Central Queensland    	| 225,000    	| 110,000    	|
-| Central West          	| 12,387     	| 418,500    	|
-| Darling Downs         	| 280,000    	| 88,650     	|
-| Gold Coast            	| 526,173    	| 1,400      	|
-| Mackay                	| 171,297    	| 90,000     	|
-| Metro North           	| 900,000    	| 3,999      	|
-| Metro South           	| 1,000,000  	| 3,864      	|
-| North West            	| 30,000     	| 253,000    	|
-| South West            	| 30,000     	| 319,870    	|
-| Sunshine Coast        	| 360,000    	| 10,000     	|
-| Townsville            	| 255,000    	| 152,840    	|
-| West Moreton          	|            	|            	|
-| Wide Bay              	| 208,558    	| 36,972     	|
+| LASN No 	| LASN Name                   	| Population 	| Area (km²) 	|
+|---------	|-----------------------------	|------------	|------------	|
+| 1       	| Cape York and Torres Strait 	| 27,000     	| 268,000    	|
+| 2       	| Cairns and Hinterland       	| 221,000    	| 142,900    	|
+| 3       	| North West                  	| 30,000     	| 253,000    	|
+| 4       	| Townsville                  	| 255,000    	| 152,840    	|
+| 5       	| Mackay                      	| 171,297    	| 90,000     	|
+| 6       	| Central West                	| 12,387     	| 418,500    	|
+| 7       	| Central Queensland          	| 225,000    	| 110,000    	|
+| 8       	| Wide Bay                    	| 208,558    	| 36,972     	|
+| 9       	| South West                  	| 30,000     	| 319,870    	|
+| 10      	| Darling Downs               	| 280,000    	| 88,650     	|
+| 11      	| Sunshine Coast              	| 360,000    	| 10,000     	|
+| 12      	| West Moreton                	|            	|            	|
+| 13      	| Metro North                 	| 900,000    	| 3,999      	|
+| 14      	| Metro South                 	| 1,000,000  	| 3,864      	|
+| 15      	| Gold Coast                  	| 526,173    	| 1,400      	|
 
 ## License
 
